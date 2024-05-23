@@ -8,7 +8,6 @@
  }
 
 body {
-    background: #081b29;
     color: #ededed;
 }
 
@@ -48,7 +47,7 @@ body {
 
 .home {
     height: 100vh;
-    background: url('home.jpg') no repeat;
+    background: url('thé.jpeg') no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
