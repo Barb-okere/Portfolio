@@ -47,7 +47,7 @@ body {
 
 .home {
     height: 100vh;
-    background: url('thé.jpeg') no-repeat;
+    background: url('the2.jpeg') no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -140,4 +140,14 @@ body {
    background: red;
    bottom: 40px;
    width: 170px;
+}
+
+.the2-imgHover {
+    position: absolute;
+    top: 0;
+    right: 30px;
+    width: 500px;
+    height: 100;
+    background: transparent;
+    border: 2px solid red;
 }
